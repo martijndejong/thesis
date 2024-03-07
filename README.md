@@ -9,4 +9,4 @@ Mathematical human controller (HC) models are widely used in tuning manual contr
 
 ![tempdelete](https://github.com/martijndejong/thesis/assets/12080489/6a9b34e3-6418-42a2-99ee-83d909f73560)
 
-<img src="https://github.com/martijndejong/thesis/assets/12080489/6a9b34e3-6418-42a2-99ee-83d909f73560" alt="drawing" width="200"/>
+<img src="https://github.com/martijndejong/thesis/assets/12080489/6a9b34e3-6418-42a2-99ee-83d909f73560" alt="drawing" width="50%"/>
