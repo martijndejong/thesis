@@ -31,5 +31,5 @@ This work presents a promising step towards real-time, comprehensive evaluation 
 ## Screenshots
 <img src="https://github.com/martijndejong/thesis/assets/12080489/3b1b9bdf-cdab-4292-a0ff-b998c7af3138" alt="Screenshot of Results" width="100%"/>
 
-<img src="https://github.com/martijndejong/thesis/assets/12080489/4b227adf-e6c6-4eb9-95b3-aa2c1ac67ebd" alt="Screenshot of Network Architecture" width="75%"/>
+<img src="https://github.com/martijndejong/thesis/assets/12080489/4b227adf-e6c6-4eb9-95b3-aa2c1ac67ebd" alt="Screenshot of Network Architecture" width="80%"/>
 
